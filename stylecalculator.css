@@ -1,0 +1,61 @@
+.container{
+    height: auto;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 465px;
+    margin-top: 60px;
+    
+}
+#answer{
+ background-color: aqua;  
+}
+
+#box{
+    display: inline-block;
+    margin-left: 400px;
+    background-color: black;
+    height: 385px;
+    width: 250px;
+    border-radius: 15px;
+    padding-left: 10px;
+}
+
+input{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(64 62 62);
+    border-radius: 30px;
+    margin: 4px;
+    border: black;
+    color: white;
+    font-size: 25px;
+
+}
+input:hover {
+    background-color: rgba(133, 128, 128, 0.767);
+  }
+
+#text{
+    height: 50px;
+    width: 200px;
+    margin: 5px;
+    background-color: black;
+    border: black;
+    color: wheat;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.ac{
+    height: 50px;
+    width: 110px;
+}
+.buttoncolor{
+    background-color: rgb(252, 151, 0);
+}
+.buttoncolor:hover{
+    background-color: azure;
+    color: rgb(252, 151, 0);
+}
