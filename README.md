@@ -4,7 +4,7 @@ This is a webpage contains Calculator with the help of html and css coding .This
 
 # Video (Output)
 
-![video](alphabetsputput.mov)
+https://user-images.githubusercontent.com/90180315/156601778-5bff76c1-2292-4b19-bfc4-029dccc92e57.mov
 
 
 ## How to run this code 
